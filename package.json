@@ -9,7 +9,7 @@
     "serve": "webpack-dev-server",
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
-  "repository": "https://github.com/StephenGrider/WebpackProject",
+  "repository": "https://github.com/moussarr/upstar-music",
   "author": "",
   "license": "ISC",
   "dependencies": {
