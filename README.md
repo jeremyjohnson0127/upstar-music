@@ -1,4 +1,4 @@
-# upstart-music
+# upstar-music
 
 - basic webpack configuration
 - vender splitting
